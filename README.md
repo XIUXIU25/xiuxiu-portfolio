@@ -3,6 +3,9 @@
   <a href="https://xiuxiu-portfolio.vercel.app/" target="_blank">xiuxiu.dev</a>
 </h2>
 
+<img width="810" height="669" alt="image" src="https://github.com/user-attachments/assets/7d97610e-6d90-47db-a9f4-fd245f14ff18" />
+
+
 <!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div> -->
