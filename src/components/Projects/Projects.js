@@ -2,6 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
+import youtube from "../../Assets/Projects/youtube.png";
+import workout from "../../Assets/Projects/workout.png";
+import image from "../../Assets/Projects/imageprocess.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
@@ -20,7 +23,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={workout}
               isBlog={false}
               title="Full-Stack Fitness Routine Management Application"
               description="A full-stack fitness application enabling users to create, view, and manage workout routines."
@@ -31,7 +34,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={youtube}
               isBlog={false}
               title="Scalable Video Transcoding & Streaming Pipeline"
               description="YouTube functionality—video uploading, processing, and viewing—rather than building a full production system."
@@ -42,7 +45,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={image}
               isBlog={false}
               title="Cloud-Native Image Transformation Platform "
               description="A simple FastAPI backend that allows user authentication and image uploads."
