@@ -6,6 +6,7 @@ import youtube from "../../Assets/Projects/youtube.png";
 import workout from "../../Assets/Projects/workout.png";
 import image from "../../Assets/Projects/imageprocess.png";
 import editor from "../../Assets/Projects/codeEditor.png";
+import user from "../../Assets/Projects/user.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
@@ -67,11 +68,11 @@ function Projects() {
 
                               <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={user}
               isBlog={false}
-              title="Expense Tracker"
-              description="This application allows users to add, delete, update, and view expenses, along with summary reports."
-              ghLink="https://github.com/XIUXIU25/expense-tracker"
+              title="AI-Driven User Routing & Matching System"
+              description="A real-time user–interviewer routing system with FastAPI, MongoDB, and Elasticsearch, applying semantic embeddings (Ollama, Hugging Face) with KNN for dynamic project matching."
+              ghLink="https://github.com/XIUXIU25/user_research_web"
               // demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
