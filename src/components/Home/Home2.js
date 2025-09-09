@@ -19,18 +19,16 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi, I’m Xiuxiu. I’m a first-generation college student and started my career as a research assistant at a small market research agency, where I worked across various industries and geographies. It was fast-paced and intellectually demanding, and it taught me how to learn quickly and adapt to new challenges.
+              Hi, I’m Xiuxiu. I’m a first-generation college student and began my career as a UX researcher and market research assistant, working across industries and geographies. The work was fast-paced and intellectually demanding—it sharpened my ability to uncover user needs, synthesize insights, and adapt quickly to new challenges.
 
               <br />
-              <br />Over time, I realized I wanted to do more than advocate for users—I wanted to build the solutions myself. That’s what sparked my transition into tech. I’m now pursuing a Master’s in Computer Science at Northeastern University. Over the past two years, I’ve completed internships and built several personal projects, gaining hands-on experience in full-stack development and cloud computing.
+              <br />Over time, I realized I wanted to do more than study user behavior and advocate for users—I wanted to design and build the solutions myself. That realization sparked my transition into tech. I’m now pursuing a Master’s in Computer Science at Northeastern University. Over the past two years, I’ve completed internships and built several personal projects, gaining hands-on experience in full-stack development and cloud computing.
 
               <br />
               <br />
-              Moving forward, I hope to contribute as a software engineer to projects that combine user-centered design with scalable backend systems and cloud infrastructure. Ultimately, I want to build technology that genuinely improves people’s lives.
+             Looking ahead, I hope to contribute as a software engineer to projects that combine user-centered design principles with scalable backend systems and cloud infrastructure. Ultimately, I want to build technology that genuinely improves people’s lives.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
             </p>
           </Col>
           <Col md={4} className="myAvtar">
