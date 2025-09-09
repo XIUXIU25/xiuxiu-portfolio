@@ -26,7 +26,7 @@ function Home2() {
 
               <br />
               <br />
-             Looking ahead, I hope to contribute as a software engineer to projects that combine user-centered design principles with scalable backend systems and cloud infrastructure. Ultimately, I want to build technology that genuinely improves people’s lives.
+             Looking ahead, I hope to contribute as a software engineer to projects that combine <span className="purple">user-centered design principles</span> with scalable backend systems and cloud infrastructure. Ultimately, I want to build technology that genuinely improves people’s lives.
               <br />
               <br />
             </p>
